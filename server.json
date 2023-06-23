@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-23T17:04:15.988Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 49,
+      "createdAt": "2023-06-23T17:00:15.988Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel da Casa",
+      "type": "outcome",
+      "category": "Gastos Fixos",
+      "price": 1200,
+      "createdAt": "2023-06-23T08:00:15.988Z"
+    },
+    {
+      "id": 4,
+      "description": "Computador",
+      "type": "income",
+      "category": "Venda",
+      "price": 6500,
+      "createdAt": "2023-06-23T13:00:15.988Z"
+    }
+  ]
+}
