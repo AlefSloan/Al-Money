@@ -31,6 +31,22 @@
       "category": "Venda",
       "price": 6500,
       "createdAt": "2023-06-23T13:00:15.988Z"
+    },
+    {
+      "description": "Academia",
+      "category": "Sáude",
+      "price": 70,
+      "type": "outcome",
+      "createdAt": "2023-06-24T16:31:22.645Z",
+      "id": 5
+    },
+    {
+      "description": "Cinema",
+      "category": "Lazer",
+      "price": 120,
+      "type": "outcome",
+      "createdAt": "2023-06-24T16:46:01.853Z",
+      "id": 6
     }
   ]
 }

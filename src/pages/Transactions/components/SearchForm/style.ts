@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const SearchFormContent = styled.form`
   display: flex;
@@ -41,4 +41,4 @@ export const SearchFormContent = styled.form`
       cursor: not-allowed;
     }
   }
-`;
+`
